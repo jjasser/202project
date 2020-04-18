@@ -1,0 +1,18 @@
+************* Module tlvparser
+tlvparser.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+tlvparser.py:6:0: E0401: Unable to import 'pytlv.TLV' (import-error)
+tlvparser.py:6:0: W0401: Wildcard import pytlv.TLV (wildcard-import)
+tlvparser.py:9:4: C0103: Constant name "in_bytes" doesn't conform to UPPER_CASE naming style (invalid-name)
+tlvparser.py:16:4: C0103: Constant name "start" doesn't conform to UPPER_CASE naming style (invalid-name)
+tlvparser.py:17:4: C0103: Constant name "end" doesn't conform to UPPER_CASE naming style (invalid-name)
+tlvparser.py:19:4: C0103: Constant name "accumulate" doesn't conform to UPPER_CASE naming style (invalid-name)
+tlvparser.py:23:4: C0103: Constant name "cert_name" doesn't conform to UPPER_CASE naming style (invalid-name)
+tlvparser.py:1:0: W0611: Unused import string (unused-import)
+tlvparser.py:2:0: W0611: Unused import re (unused-import)
+tlvparser.py:3:0: W0611: Unused islice imported from itertools (unused-import)
+tlvparser.py:4:0: W0611: Unused import codecs (unused-import)
+tlvparser.py:5:0: W0611: Unused import binascii (unused-import)
+
+--------------------------------------------------------------------
+Your code has been rated at -0.62/10 (previous run: -0.62/10, +0.00)
+
